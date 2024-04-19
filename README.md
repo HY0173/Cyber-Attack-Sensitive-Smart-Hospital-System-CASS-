@@ -6,4 +6,5 @@ This repository aims at implementing a secured smart hospital system (CASS)
   
 * [`flaskProject`](./flaskProject/): Code for system implementation
 
-## 💎 Find Us at YouTube: https://youtu.be/qG2-GYbEEcA
+## 💎 Find Us at YouTube 
+link: https://youtu.be/qG2-GYbEEcA
